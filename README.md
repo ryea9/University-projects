@@ -23,7 +23,7 @@ As a second-year cybersecurity student, I am passionate about building secure sy
     *   *Projects focused on securing operating systems and networks.*
 *   **[Cryptography](./Cryptography/README.md)**
     *   *Implementations of cryptographic algorithms and protocols.*
-*   **[Database Fundamentals](./Database-Fundamentals/README.md)**
+*   **[Database Fundamentals](./DatabaseFundamentals/README.md)**
     *   *Projects on designing and securing databases.*
 
 ---
