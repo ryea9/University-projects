@@ -6,7 +6,7 @@
     *   *Projects related to building and securing web applications.*
 *   **[Cloud Computing](./Cloud%20Computing/README.md)**
     *   *Projects involving cloud infrastructure and security.*
-*   **[Programming One](./Programming-One/README.md)**
+*   **[Programming 1](./Programming%201/README.md)**
     *   *Fundamental programming projects that form the basis of my coding skills.*
 
 ### Year 2
