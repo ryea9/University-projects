@@ -1,6 +1,5 @@
 # Web Systems Project: Personal Portfolio Website
 
-**With this:**
 ```markdown
 **Live Demo:** [**https://ryea9.github.io/University-projects/Web-Systems/index.html**](https://ryea9.github.io/University-projects/Web-Systems/index.html)```
 ---
