@@ -1,8 +1,6 @@
 # Web Systems Project: Personal Portfolio Website
 
 **Live Demo:** [**View the live website here**](https://ryea9.github.io/University-projects/Web-Systems/)
-*(Note: The link points to the `index.html` file within this folder)*
-
 ---
 
 ### Project Overview
