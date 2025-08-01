@@ -23,7 +23,7 @@ With a clear understanding of the requirements, the next step was to create an E
 
 Our ERD captures the core entities—`User`, `Property`, `Agent`, `Agency`—and the various interactions between them, such as how a `User` **submits** an `Application` or an `Agent` **manages** a `Listing`.
 
-➡️ **[View the full Entity-Relationship Diagram (ERD)](./erd.png)**
+➡️ **[View the full Entity-Relationship Diagram (ERD)](./erd.PNG)**
 
 ---
 
