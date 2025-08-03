@@ -1,4 +1,4 @@
-# Cryptography Projects
+# Cryptography
 
 This section showcases practical projects completed for the Cryptography (41900) course. These projects provided hands-on experience with both foundational and modern cryptographic concepts, from securing web traffic with a Public Key Infrastructure (PKI) to deploying a private blockchain network.
 
