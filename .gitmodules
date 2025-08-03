@@ -1,0 +1,6 @@
+[submodule "Cryptography/Secure-https-server-pki"]
+	path = Cryptography/Secure-https-server-pki
+	url = https://github.com/ryea9/Secure-https-server-pki.git
+[submodule "Cryptography/private-ethereum-blockchain"]
+	path = Cryptography/private-ethereum-blockchain
+	url = https://github.com/ryea9/private-ethereum-blockchain.git
