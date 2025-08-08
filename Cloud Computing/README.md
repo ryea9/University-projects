@@ -1,4 +1,4 @@
-# Cloud Computing Infrastructure Projects
+# Cloud Computing Infrastructure
 
 This repository documents the practical lab work completed for the Cloud Computing Infrastructure course. The labs provided hands-on experience with VMware vSphere, a leading virtualization platform, and covered the core components of building and managing a private cloud environment.
 
