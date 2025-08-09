@@ -1,10 +1,10 @@
-# Cryptography
+# 🔐 Cryptography
 
 This section showcases practical projects completed for the Cryptography (41900) course. These projects provided hands-on experience with both foundational and modern cryptographic concepts, from securing web traffic with a Public Key Infrastructure (PKI) to deploying a private blockchain network.
 
 ---
 
-## Summary of Skills & Tools
+## 🛠️ Summary of Skills & Tools
 
 ### Key Skills Learned
 *   **Public Key Infrastructure (PKI):** Full lifecycle management, including creating a Root Certificate Authority (CA), generating key pairs, and issuing/signing X.509 digital certificates.
@@ -31,7 +31,7 @@ This project involved building a complete Public Key Infrastructure from the gro
 
 ➡️ **[View the full project here](https://github.com/ryea9/Secure-https-server-pki)**
 
-### 2. Private Ethereum Blockchain Project
+### ⛓️ 2. Private Ethereum Blockchain Project
 
 This project involved deploying a private, custom Proof-of-Work Ethereum blockchain from scratch. This provided foundational experience in blockchain technology and decentralised systems. The process included creating a custom genesis block, generating and managing user accounts (wallets), initiating a miner to secure the network, and executing transactions between accounts on the private network.
 
