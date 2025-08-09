@@ -52,5 +52,4 @@ This ensures the site functions correctly while preventing unauthorised changes.
 The website is designed to be responsive and accessible across different devices. By using `@media` queries in CSS, the layout adjusts to different screen sizes. For example:
 ```css
 @media only screen and (max-width: 600px) {
-  /* CSS rules for phones and small devices go here */
 }
