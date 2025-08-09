@@ -1,4 +1,4 @@
-# Project: Broken Access Control (IDOR) Attack Simulation
+# System Security: Broken Access Control (IDOR) Attack Simulation
 
 This project is a practical security assessment focusing on one of the most critical web application vulnerabilities: **Broken Access Control (BAC)**. As outlined in the **OWASP Top 10 (A01:2021)**, BAC flaws occur when restrictions on what authenticated users are allowed to do are not properly enforced.
 
