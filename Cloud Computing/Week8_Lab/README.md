@@ -1,4 +1,4 @@
-# Lab 8 - ESXi Installation and Host Profiles
+# ESXi Installation and Host Profiles
 
 This final lab focused on scalability and standardization within a vSphere environment. The objectives were to add a new ESXi host to the infrastructure and then use the Host Profiles feature to create and apply a configuration template, ensuring the new host was configured identically to the existing ones.
 
