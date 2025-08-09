@@ -1,4 +1,4 @@
-# Lab 6 - Resource Pools and CPU Workload Management
+# Resource Pools and CPU Workload Management
 
 This lab explored the resource management capabilities of VMware vSphere. The objective was to use resource pools to control the allocation of CPU resources to virtual machines and to observe how these settings impact VM performance under load.
 
