@@ -1,4 +1,4 @@
-# Lab 3 - iSCSI Storage (VMFS) on ESXi
+# iSCSI Storage (VMFS) on ESXi
 
 This lab focused on configuring shared storage for the ESXi hosts. The goal was to connect the hosts to an iSCSI storage area network (SAN) and create a shared datastore, which is a prerequisite for advanced vSphere features like vMotion and High Availability.
 
