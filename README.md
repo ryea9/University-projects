@@ -9,14 +9,13 @@ I’m a dedicated second-year Bachelor of Cybersecurity student at the Universit
 My primary goal is to leverage my academic background and passion for cybersecurity to secure an entry-level position, such as a Tier 1 SOC Analyst, where I can contribute to a security team. I am eager to gain hands-on experience in monitoring, detecting, and responding to security incidents. I aim to continuously develop my technical skills and work towards obtaining industry-recognized certifications to advance my career in the cybersecurity field.
 
 ## 🧠 Skills
-*   Network Security
-*   Scripting
+*   Understanding of network protocols (TCP/IP, DNS, HTTP/S) and their security implications
 *   Linux/Unix Systems
-*   Ethical Hacking
-*   Cryptography
-*   Database Security
+*   Knowledge of OWASP Top 10 vulnerabilities
+*   SQL: database querying and understanding injection risks
+*   Python: scripting, automation, basic security tool development
 *   Web Application Security
-*   Cloud Security
+*   VMware vSphere (ESXi, vCenter): VM setup and management
 
 ### 🛠️ Tools & Platforms
 
