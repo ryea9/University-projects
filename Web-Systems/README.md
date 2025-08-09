@@ -36,6 +36,16 @@ The visual appearance was controlled entirely by an external stylesheet (`websys
 *   **Aesthetics:** The `color` and `background-color` properties were used to create a consistent theme. `box-shadow` was applied to add depth to images and other elements.
 *   **Interactive Effects:** A **`hover`** effect was added to all navigation links, providing visual feedback by changing the link’s color or background and adding a subtle shadow to enhance interactivity and depth.
 
+  ### File Permissions  
+The website files are secured with proper Linux permissions:  
+
+- Static files (HTML, CSS, images) set to read-only for all users (`chmod 644`)  
+- Directories set with execute permissions for access (`chmod 755`)  
+- Sensitive files restricted to owner only (`chmod 600`)  
+
+This ensures the site functions correctly while preventing unauthorized changes.  
+
+
 ### Key Features
 
 #### Responsive Design
