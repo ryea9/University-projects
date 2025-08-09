@@ -1,4 +1,4 @@
-# Lab 7 - Clusters, High Availability (HA), and DRS
+# Clusters, High Availability (HA), and DRS
 
 This lab covered two of the most important features of a vSphere cluster: High Availability (HA) and Distributed Resource Scheduler (DRS). The objective was to create a cluster, enable HA, and simulate a host failure to observe the automatic failover of virtual machines.
 
