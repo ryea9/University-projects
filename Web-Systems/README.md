@@ -1,4 +1,4 @@
-# Web Systems Project: Personal Portfolio Website
+# Web Systems: Personal Portfolio Website
 
 **Live Demo:** [**https://ryea9.github.io/University-projects/Web-Systems/index.html**](https://ryea9.github.io/University-projects/Web-Systems/index.html)
 
@@ -34,7 +34,7 @@ The structure of the website relies on a variety of semantic and structural HTML
 The visual appearance was controlled entirely by an external stylesheet (`websystems.css`).
 *   **Layout:** Key layout techniques included using **Flexbox** for aligning content, setting a `max-width` on containers to ensure readability on wide screens, and using properties like `margin` and `padding` for spacing.
 *   **Aesthetics:** The `color` and `background-color` properties were used to create a consistent theme. `box-shadow` was applied to add depth to images and other elements.
-*   **Interactive Effects:** A **`hover`** effect was added to all navigation links. This provides visual feedback to the user by changing the link's color or background, enhancing interactivity.
+*   **Interactive Effects:** A **`hover`** effect was added to all navigation links, providing visual feedback by changing the link’s color or background and adding a subtle shadow to enhance interactivity and depth.
 
 ### Key Features
 
