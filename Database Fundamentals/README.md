@@ -6,10 +6,10 @@ This project, completed for the Database Fundamentals (31271) course, captures t
 
 ## Stage 1: Database Design Case Study
 
-The first step was to analyze the realestate.com.au website to understand its core business requirements. This involved identifying key entities, their attributes, and the relationships between them to define the database’s scope, including its main functions, data needs, and business rules.
+The first step was to analyse the realestate.com.au website to understand its core business requirements. This involved identifying key entities, their attributes, and the relationships between them to define the database’s scope, including its main functions, data needs, and business rules.
 
 This involved:
-*   **Analyzing Business Functions**: Identifying essential services such as user registration, property searching, submitting rental applications, and scheduling property inspections.
+*   **Analysing Business Functions**: Identifying essential services such as user registration, property searching, submitting rental applications, and scheduling property inspections.
 *   **Defining Data Requirements**: Listing the specific pieces of information (attributes) that needed to be stored for each entity, such as a property's address and price, or a user's name and contact details.
 *   **Establishing Business Rules**: Creating rules to ensure data consistency and integrity. For example, a rule stating that "a property listing must be associated with a valid agent."
 
