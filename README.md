@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/ryea-d-souza-ba25902a4"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 👋 About Me
-I am a dedicated and aspiring cybersecurity professional currently pursuing a Bachelor of Cybersecurity. I have a strong passion for understanding and mitigating security threats. My academic journey has provided me with a solid foundation in various domains of cybersecurity, and I am eager to apply my knowledge in a practical, real-world setting. I am particularly interested in the ever-evolving landscape of digital defense and am constantly seeking to expand my skills and stay abreast of the latest industry trends.
+I’m a dedicated second-year Bachelor of Cybersecurity student at the University of Technology with a passion for offensive security. I enjoy exploring how systems can be broken and, more importantly, how to defend them. I’m eager to apply my skills in real-world environments, continually learn new tools and techniques, and stay ahead in the ever-evolving cybersecurity landscape.
 
 ## 🎯 Aspirations
 My primary goal is to leverage my academic background and passion for cybersecurity to secure an entry-level position, such as a Tier 1 SOC Analyst, where I can contribute to a security team. I am eager to gain hands-on experience in monitoring, detecting, and responding to security incidents. I aim to continuously develop my technical skills and work towards obtaining industry-recognized certifications to advance my career in the cybersecurity field.
