@@ -62,6 +62,6 @@ This section showcases various projects I completed as part of my curriculum at 
 ---
 
 ## 📫 Connect with Me
-Feel free to reach out if you'd like to collaborate on projects, discuss cybersecurity trends, or connect with a fellow enthusiast.
+I’m open to new connections and opportunities. Whether it’s a project, discussing cybersecurity trends, or networking, feel free to reach out!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ryea-d-souza-ba25902a4)
