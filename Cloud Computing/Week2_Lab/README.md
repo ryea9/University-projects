@@ -1,4 +1,4 @@
-# Week 2 Lab: VMware ESXi and VM Creation
+# VMware ESXi and VM Creation
 
 This lab provided a foundational understanding of the VMware vSphere environment. The primary goals were to ensure the lab environment was correctly set up, perform initial network configurations on ESXi hosts, and build a new ESXi host as a virtual machine.
 
