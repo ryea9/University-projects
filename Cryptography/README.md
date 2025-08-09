@@ -23,7 +23,7 @@ This section showcases practical projects completed for the Cryptography (41900)
 
 ## Projects
 
-Below are summaries of the two major projects completed for this subject. Each project is contained in its own submodule within this directory. Clicking a link will take you to its dedicated repository.
+Below are summaries of the two major projects completed for this subject. Each project is contained in its submodule within this directory. Clicking a link will take you to its dedicated repository.
 
 ### 1. Secure HTTPS Server (PKI) Project
 
@@ -33,6 +33,6 @@ This project involved building a complete Public Key Infrastructure from the gro
 
 ### 2. Private Ethereum Blockchain Project
 
-This project involved deploying a private, custom Proof-of-Work Ethereum blockchain from scratch. This provided foundational experience in blockchain technology and decentralized systems. The process included creating a custom genesis block, generating and managing user accounts (wallets), initiating a miner to secure the network, and executing transactions between accounts on the private network.
+This project involved deploying a private, custom Proof-of-Work Ethereum blockchain from scratch. This provided foundational experience in blockchain technology and decentralised systems. The process included creating a custom genesis block, generating and managing user accounts (wallets), initiating a miner to secure the network, and executing transactions between accounts on the private network.
 
 ➡️ **[View the full project here](https://github.com/ryea9/private-ethereum-blockchain)**
