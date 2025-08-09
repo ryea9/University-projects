@@ -51,8 +51,6 @@ This section showcases various projects I completed as part of my curriculum at 
     *   *Projects related to building and securing web applications.*
 *   **[Cloud Computing](./Cloud%20Computing/README.md)**
     *   *Projects involving cloud infrastructure and security.*
-*   **[Programming 1](./Programming%201/README.md)**
-    *   *Fundamental programming projects that form the basis of my coding skills.*
 
 ### Year 2
 
