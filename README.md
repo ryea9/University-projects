@@ -39,7 +39,7 @@ My primary goal is to leverage my academic background and passion for cybersecur
 
 ## 💻 Projects
 
-This section showcases a selection of projects I completed as part of my curriculum at UTS, demonstrating the concepts and skills learned in my courses.
+This section showcases various projects I completed as part of my curriculum at UTS, demonstrating the concepts and skills learned in my courses.
 
 ### Year 1
 
