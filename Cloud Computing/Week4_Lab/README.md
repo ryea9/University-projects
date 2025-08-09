@@ -1,4 +1,4 @@
-# Lab 4 - vCenter Server and VM Migration
+# vCenter Server and VM Migration
 
 This lab introduced the VMware vCenter Server Appliance (VCSA), a crucial component for centralized management of a vSphere environment. The main objectives were to connect the existing ESXi hosts to vCenter and to perform live migrations of virtual machines using vMotion and Storage vMotion.
 
