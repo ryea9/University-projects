@@ -43,7 +43,7 @@ The website files are secured with proper Linux permissions:
 - Directories set with execute permissions for access (`chmod 755`)  
 - Sensitive files restricted to owner only (`chmod 600`)  
 
-This ensures the site functions correctly while preventing unauthorized changes.  
+This ensures the site functions correctly while preventing unauthorised changes.  
 
 
 ### Key Features
