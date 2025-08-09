@@ -40,8 +40,8 @@ The attack methodology was executed in five distinct phases:
 This project provided hands-on experience and solidified my skills in several key areas of offensive security:
 
 *   **Vulnerability Analysis:** Deepened my understanding of the OWASP Top 10, specifically Broken Access Control and Insecure Direct Object References.
-*   **Penetration Testing Tools:** Gained practical proficiency with industry-standard tools like **Burp Suite**, utilizing its Proxy, Repeater, and Intruder modules for a real-world scenario.
-*   **HTTP Traffic Manipulation:** Mastered the ability to intercept, analyze, and modify HTTP requests to probe for weaknesses in a web application.
+*   **Penetration Testing Tools:** Gained practical proficiency with industry-standard tools like **Burp Suite**, utilising its Proxy, Repeater, and Intruder modules for a real-world scenario.
+*   **HTTP Traffic Manipulation:** Mastered the ability to intercept, analyse, and modify HTTP requests to probe for weaknesses in a web application.
 *   **Ethical Hacking Methodology:** Applied a structured attack methodology, from initial reconnaissance and analysis to final exploitation and reporting.
 *   **Automation of Attacks:** Learned to use Burp Intruder to automate discovery and brute-force attacks, a critical skill for efficient security testing.
 
