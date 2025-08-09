@@ -1,14 +1,12 @@
 # Project: Designing a Database for a Real Estate Platform
 
-This project, developed for the **Database Fundamentals (31271)** course, documents the end-to-end process of designing and implementing a relational database for a real estate platform. Inspired by commercial websites like `realestate.com.au`, the goal was to model a robust system for managing property listings, users, and their interactions.
-
-The project was executed in three distinct stages, moving from high-level business concepts to a functional, queryable database.
+This project, completed for the Database Fundamentals (31271) course, captures the full lifecycle of designing and implementing a relational database built for realestate.com.au. The goal was to create a robust system to manage property listings, users, and their interactions.
 
 ---
 
 ## Stage 1: Database Design Case Study
 
-The initial phase involved a case study to understand the core business requirements of a real estate platform. The primary objective was to define the scope of the database by identifying key functions, data needs, and the rules governing them.
+The first step was to analyze the realestate.com.au website to understand its core business requirements. This involved identifying key entities, their attributes, and the relationships between them to define the database’s scope, including its main functions, data needs, and business rules.
 
 This involved:
 *   **Analyzing Business Functions**: Identifying essential services such as user registration, property searching, submitting rental applications, and scheduling property inspections.
@@ -21,7 +19,7 @@ This involved:
 
 With a clear understanding of the requirements, the next step was to create an Entity-Relationship Diagram (ERD). The ERD serves as a high-level, visual blueprint of the database, illustrating the different entities and the logical relationships between them. This conceptual model is crucial for ensuring the database design is logical and addresses all business rules before implementation begins.
 
-Our ERD captures the core entities—`User`, `Property`, `Agent`, `Agency`—and the various interactions between them, such as how a `User` **submits** an `Application` or an `Agent` **manages** a `Listing`.
+The ERD captures the core entities—`User`, `Property`, `Agent`, `Agency`—and the various interactions between them, such as how a `User` **submits** an `Application` or an `Agent` **manages** a `Listing`.
 
 ➡️ **[View the full Entity-Relationship Diagram (ERD)](./erd.PNG)**
 
