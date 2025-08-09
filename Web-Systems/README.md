@@ -13,7 +13,7 @@ This project is a multi-page personal portfolio website developed as the sole pr
 *   **Operating System:** The website was developed and tested within a **Linux server** environment.
 *   **Core Technologies:** HTML5, CSS3
 
-### Page Overview
+### 📄 Page Overview
 
 The website is structured into four main pages:
 
