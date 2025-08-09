@@ -1,6 +1,5 @@
 # Hi, my name is Ryea D'souza
 
-<a href="https://www.linkedin.com/in/ryea-d-souza-ba25902a4"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 👋 About Me
 I’m a dedicated second-year Bachelor of Cybersecurity student at the University of Technology Sydney (UTS) with a passion for offensive security. I enjoy exploring how systems can be broken and, more importantly, how to defend them. I’m eager to apply my skills in real-world environments, continually learn new tools and techniques, and stay ahead in the ever-evolving cybersecurity landscape.
