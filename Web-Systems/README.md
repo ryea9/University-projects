@@ -6,16 +6,14 @@
 
 ### Project Overview
 
-This project is a multi-page personal portfolio website developed as the sole project for the Web Systems course. It was built from the ground up and hosted on a Linux server environment. The primary goal was to demonstrate a practical understanding of core web technologies, including HTML for structure, CSS for styling, and essential web server management concepts like file permissions. The website introduces me, details my experiences and future goals, and includes a self-critique page to analyze the design and accessibility choices made during development.
+This project is a multi-page personal portfolio website developed as the sole project for the Web Systems course. It was fully designed and implemented by me and hosted on a Linux server environment. The primary goal was to demonstrate a practical understanding of core web technologies, including HTML for structure, CSS for styling, and essential web server management concepts like file permissions. The website introduces me, details my experiences and future goals, and includes a self-critique page to analyse the design and accessibility choices made during development.
 
 ### Development Environment
 
 *   **Operating System:** The website was developed and tested within a **Linux server** environment.
 *   **Core Technologies:** HTML5, CSS3
-*   **Code Editor:** Visual Studio Code (or your editor of choice)
-*   **Version Control:** Git & GitHub
 
-### Page-by-Page Breakdown
+### Page Overview
 
 The website is structured into four main pages:
 
