@@ -10,7 +10,7 @@ The target for this assessment was **WebGoat**, a deliberately insecure web appl
 
 ## My Role: The Attacker
 
-My responsibility was to simulate a real-world attack by exploiting an **Insecure Direct Object Reference (IDOR)** vulnerability—a common type of Broken Access Control. The goal was to authenticate as a low-privilege user and escalate access to view the private data of another user on the system.
+My responsibility was to simulate a real-world attack by exploiting an **Insecure Direct Object Reference (IDOR)** vulnerability, a common type of BAC. The goal was to authenticate as a low-privilege user and escalate access to view the private data of another user on the system.
 
 The attack methodology was executed in five distinct phases:
 
