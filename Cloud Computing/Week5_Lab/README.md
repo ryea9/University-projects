@@ -1,4 +1,4 @@
-# Lab 5 - vSwitches and Port Groups
+# vSwitches and Port Groups
 
 This lab focused on the networking components within vSphere. The objectives were to understand how virtual switches (vSwitches) and port groups work, and how they can be used to manage and segment network traffic for virtual machines using VLANs.
 
