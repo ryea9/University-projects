@@ -48,7 +48,7 @@ This section showcases various projects I completed as part of my curriculum at 
 ### Year 1
 
 *   **[Web-Systems](./Web-Systems/README.md)**
-    *   *Projects related to building and securing web applications.*
+    *   *This project showcases the development of a multi-page personal portfolio using fundamental HTML and CSS, hosted within a secure Linux server environment.*
 *   **[Cloud Computing](./Cloud%20Computing/README.md)**
     *   *Projects involving cloud infrastructure and security.*
 
