@@ -59,7 +59,7 @@ This section showcases various projects I completed as part of my curriculum at 
 *   **[Cryptography](./Cryptography/README.md)**
     *   *These projects showcase applied cryptography skills, from managing the full chain of trust by creating a custom Certificate Authority to deploying a private blockchain from its genesis block. The work demonstrates proficiency in using command-line tools like OpenSSL and Geth to build secure, functional cryptographic systems from scratch.*
 *   **[Database Fundamentals](./Database%20Fundamentals/README.md)**
-    *   *Projects on designing and securing databases.*
+    *   *This project documents the process of designing and implementing a relational database for a real estate platform. It details the journey from an initial business analysis and conceptual data modeling to the final implementation of a functional database using PostgreSQL.*
 
 ---
 
