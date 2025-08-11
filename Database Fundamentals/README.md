@@ -1,4 +1,4 @@
-# Project: Designing a Database for a Real Estate Platform
+# Designing a Database for a Real Estate Platform
 
 This project, completed for the Database Fundamentals (31271) course, captures the full lifecycle of designing and implementing a relational database built for realestate.com.au. The goal was to create a robust system to manage property listings, users, and their interactions.
 
