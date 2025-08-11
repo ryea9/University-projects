@@ -55,7 +55,7 @@ This section showcases various projects I completed as part of my curriculum at 
 ### Year 2
 
 *   **[System Security](./System%20Security/README.md)**
-    *   *Projects focused on securing operating systems and networks.*
+    *   *This project showcases a hands-on application of ethical hacking methodology by simulating a real-world attack on a web application. Acting as the attacker, I utilized Burp Suite to demonstrate how an IDOR vulnerability can be exploited, highlighting key skills in penetration testing and traffic analysis.*
 *   **[Cryptography](./Cryptography/README.md)**
     *   *Implementations of cryptographic algorithms and protocols.*
 *   **[Database Fundamentals](./Database%20Fundamentals/README.md)**
