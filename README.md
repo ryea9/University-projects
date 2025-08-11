@@ -50,7 +50,7 @@ This section showcases various projects I completed as part of my curriculum at 
 *   **[Web-Systems](./Web-Systems/README.md)**
     *   *This project showcases the development of a multi-page personal portfolio using fundamental HTML and CSS, hosted within a secure Linux server environment.*
 *   **[Cloud Computing](./Cloud%20Computing/README.md)**
-    *   *Projects involving cloud infrastructure and security.*
+    *   *This repository documents a series of hands-on labs focused on building and managing a private cloud environment using VMware vSphere. The projects cover core virtualization concepts, from ESXi host configuration and shared storage to advanced features like vMotion, High Availability, and resource management.*
 
 ### Year 2
 
