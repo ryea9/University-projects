@@ -57,7 +57,7 @@ This section showcases various projects I completed as part of my curriculum at 
 *   **[System Security](./System%20Security/README.md)**
     *   *This project showcases a hands-on application of ethical hacking methodology by simulating a real-world attack on a web application. Acting as the attacker, I utilized Burp Suite to demonstrate how an IDOR vulnerability can be exploited, highlighting key skills in penetration testing and traffic analysis.*
 *   **[Cryptography](./Cryptography/README.md)**
-    *   *Implementations of cryptographic algorithms and protocols.*
+    *   *These projects showcase applied cryptography skills, from managing the full chain of trust by creating a custom Certificate Authority to deploying a private blockchain from its genesis block. The work demonstrates proficiency in using command-line tools like OpenSSL and Geth to build secure, functional cryptographic systems from scratch.*
 *   **[Database Fundamentals](./Database%20Fundamentals/README.md)**
     *   *Projects on designing and securing databases.*
 
